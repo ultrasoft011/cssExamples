@@ -1,0 +1,20 @@
+.container {
+    width: 850px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    background: rgb(243,255,117);
+    background: linear-gradient(90deg, rgba(243,255,117,1) 0%, rgba(255,186,82,1) 100%);
+}
+
+#box-1 {
+    width: 350px;
+    height: 350px;
+    background-color: rgb(77, 50, 83);
+}
+
+#box-2 {
+    width: 350px;
+    height: 350px;
+    background-color: rgb(35, 179, 192);
+}

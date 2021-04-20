@@ -1,3 +1,25 @@
+.container-inline {
+    width: 850px;
+    height: 350px;
+    background: rgb(243,255,117);
+    background: linear-gradient(90deg, rgba(243,255,117,1) 0%, rgba(255,186,82,1) 100%);
+}
+
+#box-1-inline {
+    width: 350px;
+    height: 350px;
+    display: inline;
+    background-color: rgb(236, 225, 238);
+}
+
+#box-2-inline {
+    width: 350px;
+    height: 150px;
+    display: block;
+    background-color: rgb(210, 234, 236);
+}
+
+
 .container {
     width: 850px;
     height: 700px;

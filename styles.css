@@ -19,7 +19,6 @@
     background-color: rgb(210, 234, 236);
 }
 
-
 .container {
     width: 850px;
     height: 700px;
@@ -30,14 +29,14 @@
 }
 
 #box-1 {
-    width: 350px;
-    height: 350px;
+    width: 250px;
+    height: 250px;
     background-color: rgb(77, 50, 83);
 }
 
 #box-2 {
-    width: 350px;
-    height: 350px;
+    width: 250px;
+    height: 250px;
     background-color: rgb(35, 179, 192);
 }
 
@@ -50,18 +49,6 @@
     background: linear-gradient(90deg, rgba(243,255,117,1) 0%, rgba(255,186,82,1) 100%);
 }
 
-#box-1 {
-    width: 350px;
-    height: 350px;
-    background-color: rgb(77, 50, 83);
-}
-
-#box-2 {
-    width: 350px;
-    height: 350px;
-    background-color: rgb(35, 179, 192);
-}
-
 .container-column {
     width: 850px;
     height: 700px;
@@ -69,18 +56,6 @@
     flex-direction: column;
     background: rgb(243,255,117);
     background: linear-gradient(90deg, rgba(243,255,117,1) 0%, rgba(255,186,82,1) 100%);
-}
-
-#box-1 {
-    width: 350px;
-    height: 350px;
-    background-color: rgb(77, 50, 83);
-}
-
-#box-2 {
-    width: 350px;
-    height: 350px;
-    background-color: rgb(35, 179, 192);
 }
 
 .container-column-reverse {
@@ -92,15 +67,13 @@
     background: linear-gradient(90deg, rgba(243,255,117,1) 0%, rgba(255,186,82,1) 100%);
 }
 
-#box-1 {
-    width: 350px;
-    height: 350px;
-    background-color: rgb(77, 50, 83);
-}
 
-#box-2 {
-    width: 350px;
-    height: 350px;
-    background-color: rgb(35, 179, 192);
+.container-justify {
+    width: 850px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    background: rgb(243,255,117);
+    background: linear-gradient(90deg, rgba(243,255,117,1) 0%, rgba(255,186,82,1) 100%);
 }
 

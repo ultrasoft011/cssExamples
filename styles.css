@@ -91,3 +91,15 @@
     background: linear-gradient(90deg, rgba(243,255,117,1) 0%, rgba(255,186,82,1) 100%);
 }
 
+.font-weight h1 {
+    font-weight: normal;
+    
+}
+
+.font-weight-1 h1 {
+    font-weight: bold;
+}
+
+.font-weight-2 h1 {
+    font-weight: 900;
+}

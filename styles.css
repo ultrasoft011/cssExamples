@@ -40,6 +40,20 @@
     background-color: rgb(35, 179, 192);
 }
 
+#box-1-1 {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(172, 45, 200);
+}
+
+#box-2-2 {
+    width: 250px;
+    height: 250px;
+    background: rgb(255,180,178);
+    background: linear-gradient(90deg, rgba(255,180,178,1) 0%, rgba(255,238,238,1) 100%);
+}
+
+
 .container-reverse {
     width: 850px;
     height: 700px;
